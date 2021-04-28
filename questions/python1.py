@@ -156,8 +156,16 @@ def four(input):
 
 	# You may need to create a list of numbers from 0 to i, take a look at help(range).
 
+multiplication_value []
+
 def five(input):
+	x = input
+	for x in range(1, 10):
+		if x 
+
+	
 	return 1
+
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
