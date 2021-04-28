@@ -263,8 +263,17 @@ def eight(arg1):
 	
 	# Use your CLI to access the Python documentation and get help manipulating strings - help(str).
 
-def nine(input):
-	return ""
+	def nine(input):
+
+			input = input.lower()
+
+			start = input
+			end = input 
+
+			if start and end = input: 
+			return input.find(start)+len(start) input.find(end)
+			else: 
+			return -1
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
