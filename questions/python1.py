@@ -70,8 +70,17 @@ print(one(input1, ))
 	# No hints for this question
 
 def two(arg1):
-	if arg1 
-	return "null"
+	if arg1 % 3 == 0:
+		return "fizz"
+
+	elif arg1 % 5 == 0:
+		return "buzz"
+
+	elif arg1 % 3 == 0 and arg1 % 5 == 0:
+		return "fizzbuzz"
+
+	else:
+		return "null"
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
