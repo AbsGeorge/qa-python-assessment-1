@@ -102,8 +102,8 @@ def three(input):
 	num_vowels=0
 	for char in string: 
 		if char in "aeiou".lower()
-		    num_vowels = num_vowels+1
-    return num_vowels
+		num_vowels = num_vowels+1
+	return num_vowels
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
