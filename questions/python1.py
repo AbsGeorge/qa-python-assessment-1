@@ -123,10 +123,21 @@ def three(input):
 	# <HINT>
 
 	# Step through the logic here in order to solve the problem, you may find help(range) helpful.
+                                       
 
 
 def four(input):
-    return False
+		for x in range((input)):
+			if "ie" in word:                            
+				if "cie" in word:                     
+			     return False 
+
+			else:
+				if "ei" in word:
+				  if "cei" in word:
+         return True 
+
+    
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
